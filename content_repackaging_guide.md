@@ -62,7 +62,7 @@ The key to the content repackaging process is to remember that you are always wo
 
 I like to summarize the content repackaging approach through the phrase “**many facets, one jewel**.” There are many angles from which to view a cut gemstone. Each of them look different; each of them are appealing in and of themselves. Together, they form an entire jewel.[^1]
 
-![A diagram of a diamond's anatomy](diamond_anatomy.gif)
+![A diagram of a diamond's anatomy](images/diamond_anatomy.gif)
 
 In the content repackaging process, your main narrative is the jewel. Your job for each social media post is to show only one facet of it.
 
